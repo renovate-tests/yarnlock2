@@ -1,0 +1,8 @@
+{
+  "name": "tmp2",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/react": "16.7.0",
+    "@types/react-dom": "^16.0.0"
+  }
+}
